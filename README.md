@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ngthanhha.hn@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-ng-ha.vercel.app/](https://portfolio-ng-ha.vercel.app/)
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
