@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ng-ha&label=Profile%20views&color=0e75b6&style=flat" alt="ng-ha" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ng-ha.vercel.app/](https://portfolio-ng-ha.vercel.app/)
-
 - 💬 Ask me about **reactjs, react native**
 
 - 📫 How to reach me **ngthanhha.hn@gmail.com**
